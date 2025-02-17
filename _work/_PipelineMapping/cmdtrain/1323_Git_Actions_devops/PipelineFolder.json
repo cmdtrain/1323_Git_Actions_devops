@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "cmdtrain/1323_Git_Actions_devops",
+  "pipelineDirectory": "1323_Git_Actions_devops",
+  "workspaceDirectory": "1323_Git_Actions_devops\\1323_Git_Actions_devops",
+  "repositories": {
+    "cmdtrain/1323_Git_Actions_devops": {
+      "repositoryPath": "1323_Git_Actions_devops\\1323_Git_Actions_devops",
+      "lastRunOn": "02/17/2025 18:22:14 +02:00"
+    }
+  },
+  "lastRunOn": "02/17/2025 18:22:14 +02:00"
+}
